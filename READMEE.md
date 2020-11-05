@@ -1,6 +1,6 @@
 # Lebenslauf von Donald Duck
 
-![Donald Bild](/home/quantix/AIN3/OSSEPr4/EinkaufsliteRepo/donald.png)
+![Donald Bild](/home/quantix/AIN3/OSSEPr4/EinkaufsliteRepo/donaldneu.png)
 
 ## Persönliche Daten
 
