@@ -6,6 +6,7 @@
 * Alter: 27
 * Adresse: Entenstraße 42, 12345 Entenhausen
 * E-Mail: donald.duck@hs-entenhausen.de
+* Toll
 
 ## Berufserfahrung
 
