@@ -1,5 +1,7 @@
 # Lebenslauf von Donald Duck
 
+![Donald Bild](/home/quantix/AIN3/OSSEPr4/EinkaufsliteRepo/donald.jpg.webp)
+
 ## Persönliche Daten
 
 * Name: Donald Duck
